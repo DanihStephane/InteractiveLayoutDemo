@@ -2,7 +2,8 @@
 
 Une application React moderne démontrant les concepts de mise en page web avec des animations interactives et du code CSS en temps réel.
 
-![Layout Demo Preview](https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?auto=format&fit=crop&q=80&w=1200)
+![Capture d’écran du 2025-01-03 22-49-17](https://github.com/user-attachments/assets/65891521-d002-4e1b-9198-1b896a722290)
+
 
 ## ✨ Fonctionnalités
 
@@ -39,7 +40,7 @@ src/
 
 ```bash
 # Cloner le projet
-git clone https://github.com/votre-username/layout-demo.git
+git clone git@github.com:DanihStephane/InteractiveLayoutDemo.git
 
 # Installer les dépendances
 npm install
@@ -73,7 +74,7 @@ npm run dev
 
 ## 📝 License
 
-MIT © [Votre Nom]
+©  https://github.com/DanihStephane
 
 ---
 
