@@ -74,7 +74,7 @@ npm run dev
 
 ## 📝 License
 
-©  https://github.com/DanihStephane
+free : https://github.com/DanihStephane
 
 ---
 
